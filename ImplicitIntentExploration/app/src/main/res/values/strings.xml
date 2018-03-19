@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImplicitIntentExploration</string>
+    <string name="implicit_intents">Implicit Intents</string>
+    <string name="icon">Icon</string>
+    <string name="url1">"    URL:"</string>
+    <string name="enter_url_here">enter url here</string>
+    <string name="enter_url_here1">Enter url here</string>
+    <string name="launch">Launch</string>
+    <string name="phone">Phone:</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="ring">Ring</string>
+    <string name="close_application">Close Application</string>
+</resources>

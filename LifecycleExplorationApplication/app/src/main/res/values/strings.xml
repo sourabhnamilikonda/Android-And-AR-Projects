@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lifecycle Exploration Application</string>
+    <string name="sjsulogo">SJSU Logo</string>
+    <string name="activitya">ActivityA</string>
+    <string name="startb">Start B</string>
+    <string name="dialog">Dialog</string>
+    <string name="threadcount">Thread Count:</string>
+    <string name="closeapp">Close App</string>
+    <string name="activityb">ActivityB</string>
+    <string name="informationtext">Activity B occupies the complete window real-estate. The android OS forces Activity A to
+        be paused.</string>
+    <string name="finishb">FinishB</string>
+    <string name="simple_dialog">Simple Dialog</string>
+    <string name="close">Close</string>
+</resources>

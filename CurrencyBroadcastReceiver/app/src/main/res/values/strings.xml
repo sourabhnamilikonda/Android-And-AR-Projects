@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyBroadcastReceiver</string>
+    <string name="currency_conversion_exchange">Currency Conversion Exchange</string>
+    <string name="dollar_amount">Dollar Amount:</string>
+    <string name="convert_to">Convert to:</string>
+    <string name="apply">Apply</string>
+    <string name="close">Close</string>
+</resources>

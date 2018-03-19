@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidServicesAssignment</string>
+    <string name="msg1">The purpose of the app is to study the role of Android System in creating and managing
+        the lifecycle of Bound and Local service.</string>
+    <string name="msg2">Please provide list of 5 pdf\'s to download.</string>
+    <string name="services_app">Services App</string>
+    <string name="pdf_s_download_activity">PDF\'s Download Activity</string>
+    <string name="close">Close</string>
+    <string name="pdf_download_activity">PDF Download Activity</string>
+    <string name="pdf_file_location">PDF File Location:</string>
+    <string name="start_download">Start Download</string>
+    <string name="get_status">Get Status</string>
+    <string name="link1">"https://www.cisco.com/c/dam/en_us/about/annual-report/2016-annual-report-full.pdf"</string>
+    <string name="link2">"https://www.cisco.com/web/about/ac79/docs/innov/IoE_Economy.pdf"</string>
+    <string name="link3">"https://www.cisco.com/web/strategy/docs/gov/everything-for-cities.pdf"</string>
+    <string name="link4">"https://www.verizonenterprise.com/resources/reports/rp_DBIR_2017_Report_execsummary_en_xg.pdf"</string>
+    <string name="link5">"https://www.verizonenterprise.com/resources/reports/rp_DBIR_2017_Report_en_xg.pdf"</string>
+</resources>

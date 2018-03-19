@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sourabh.memecreator.MainActivity">
+
+    <fragment
+        android:id="@+id/fragment"
+        android:name="com.example.sourabh.memecreator.TopSectionFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout="@layout/top_section_fragment" />
+
+    <fragment
+        android:id="@+id/fragment2"
+        android:name="com.example.sourabh.memecreator.BottomSectionFragment"
+        android:layout_width="275dp"
+        android:layout_height="275dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        tools:layout="@layout/bottom_picture_fragment" />
+</android.support.constraint.ConstraintLayout>

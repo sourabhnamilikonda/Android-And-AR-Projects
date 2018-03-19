@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AccelerometerAsyncTask</string>
+    <string name="accelerometer_app">Accelerometer App</string>
+    <string name="x_value">X Value:</string>
+    <string name="y_value">Y Value:</string>
+    <string name="z_value">Z Value:</string>
+    <string name="simulation_count">Simulation Count:</string>
+    <string name="enter_count">Enter Count</string>
+    <string name="generate">Generate</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancelled">Cancelled</string>
+</resources>
